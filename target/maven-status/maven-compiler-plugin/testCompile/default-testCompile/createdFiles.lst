@@ -1,0 +1,10 @@
+PageObjects\RioPage.class
+PageObjects\HomePage.class
+StepDefinitions\Hooks.class
+PageObjects\LoginPage.class
+PageObjects\Accèsactespage.class
+Utilities\BaseClass.class
+StepDefinitions\LoginSteps.class
+StepDefinitions\Novelli\ConsultationRio.class
+TestRunner.class
+Utilities\PropertiesReader.class
